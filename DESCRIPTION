@@ -1,0 +1,12 @@
+Package: readR
+Type: Package
+Title: Utilities for importing and manipulating biomedical data files
+Version: 0.1.0
+Author: Vidal Fey
+Maintainer: Dhanaprakash Jambulingam <dhajam@utu.fi>
+Description: This package contains tools and helper functions to perform manipulations of data structures such as data frames, matrices and lists, assist in gene expression data analysis and provide specific functionality to analysis scripts.
+Depends: R.utils, utils
+Imports: gdata, methods
+License: MIT License
+Encoding: UTF-8
+LazyData: true
